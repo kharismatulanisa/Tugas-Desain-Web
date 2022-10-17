@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<title>DESIGN WEB RISMA</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://badoystudio.com/cloudme.fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+<body class="w3-light-grey">
+
+<!-- w3-content defines a container for fixed size centered content, 
+and is wrapped around the whole page content, except for the footer in this example -->
+<div class="w3-content" style="max-width:1400px">
+
+<!-- Header -->
+<header class="w3-container w3-center w3-padding-32"> 
+<h1><b>MY BLOG</b></h1>
+<p>Welcome to the blog of <span class="w3-tag">RISMA</span></p>
+</header>
+
+<!-- Grid -->
+<div class="w3-row">
+
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+<!-- Blog entry -->
+<div class="w3-card-4 w3-margin w3-white">
+<div class="w3-container">
+<h3><b>Kenapa RA Kartini Menjadi Pahlawan Nasional?"</b></h3>
+<h5>Sosok Raden Ajeng Kartini telah mahsyur di masyarakat Indonesia. Kegemarannya mengungkapkan pandangan dan pikirannya melalui tulisan, nama RA Kartini menjadi abadi, dengan ditetapkan sebagai salah satu pahlawan nasional Indonesia. Hari lahirnya, 21 April, dirayakan sebagai salah satu hari peringatan nasional yaitu Hari Kartini. Wanita kelahiran Jepara, Jawa Tengah ini mernjadi sosok figur emansipatoris, berjuang keras untuk kesetaraan bagi para wanita di Indonesia. RA Kartini memperjuangkan kesetaraan wanita karena saat itu keberadaan kaum hawa seringkali tidak dihargai, termasuk tak diberikan hak untuk mendapatkan pendidikan yang layak.
+    Sebagai seorang putri dari Bupati Jepara Raden Mas Adipati Ario Sosroningrat, Kartini memang beruntung bisa mengenyam pendidikan walaupun masih dalam keterbatasan. Pendidikan tersebut mampu membuatnya membaca dan menulis, bahkan dalam bahasa Belanda. Kakeknya, Pangeran Ario Tjondronegoro IV dari Demak, juga dikenal sebagai bangsawan yang terbuka terhadap peradaban barat. Sikap terbuka ini juga diwariskan ayah Kartini, yang menyebabkan anak perempuannya dapat berinteraksi dengan beberapa orang Belanda. Salah satu orang Belanda yang berpengaruh dalam hidup Kartini adalah Marie Ovink-Soer, istri dari seorang pegawai administrasi kolonial Hindia-Belanda di Jawa Tengah. 
+    
+<span class="w3-opacity"><br>Published by Kharismatul Anisa 30/9/22</span></h5>
+</div>
+
+<div class="w3-container">
+<p></p>
+<div class="w3-row">
+<div class="w3-col m8 s12">
+<p><button class="w3-button w3-padding-large w3-white w3-border"><b>Baca selengkapnya»</b></button></p>
+</div>
+<div class="w3-col m4 w3-hide-small">
+<p><span class="w3-padding-large w3-right"><b>Comments  </b> <span class="w3-tag">0</span></span></p>
+</div>
+</div>
+</div>
+</div>
+<hr>
+
+<!-- Blog entry -->
+<div class="w3-card-4 w3-margin w3-white">
+<div class="w3-container">
+<h3><b><h5></div>
+
+<div class="w3-container">
+<h3><b>Salah satu orang Belanda yang berpengaruh dalam hidup Kartini adalah Marie Ovink-Soer, istri dari seorang pegawai administrasi kolonial Hindia-Belanda di Jawa Tengah.
+<p></b></h3>
+<h5>Ovink-Soer menjadi sahabat RA Kartini untuk mencurahkan hati akan banyak hal, terutama kondisi perempuan yang dikekang adat dan tradisi.
+    Berkat sahabatnya ini pun, Kartini mengenal gerakan feminisme di Belanda sejak usia 20 tahun, dengan diperkenalkan pada jurnal beraliran feminisme De Hollandshce Lelie. Di jurnal inilah perempuan kelahiran 21 April 1879 tersebut menuliskan keinginannya memiliki sahabat pena dari Belanda. Keinginannya pun bersambut dengan pegawai pos bernama Estella Zeehandelar menanggapi dan mengirim surat kepada Kartini. Korespondensi Kartini dengan Stella membuat pemikirannya semakin terbuka.
+    Selain kepada dua orang warga Belanda tersebut, Kartini juga menulis surat kepada Rosa Abendanon, istri dari JH Abendanon, Menteri Kebudayaan, Agama, dan Kerajinan Hindia Belanda. JH Abendanon mengumpulkan surat-surat Kartini dan menjadikannya sebuah buku berjudul Door Duisternis tot Licht (1911). Buku ini diterjemahkan oleh sastrawan Armijn Pane pada 1939 dengan judul Habis Gelap Terbitlah Terang.
+    Tuntutan kesetaraan gener dan persamaan hak-hak perempuan dengan laki-laki, termasuk hak mengenyam pendidikan, kini menjadi lebih vokal disuarakan oleh banyak orang, salah satunya berkat pemikiran Kartini. Kartini mendirikan sekolah khusus perempuan untuk warga pribumi. Didirikan sekolah wanita di sebelah timur pintu gerbang kompleks kantor Kabupaten Rembang. Berkat kegigihan RA Kartini, muncul juga Sekolah Wanita oleh Yayasan Kartini (Sekolah Kartini) di Semarang pada 1912, kemudian disusul berdirinya sekolah-sekolah serupa di Surabaya, Yogyakarta, Malang, Madiun, Cirebon, dan daerah lainnya.
+
+<div class="w3-row">
+<div class="w3-col m8 s12">
+<p><button class="w3-button w3-padding-large w3-white w3-border"><b>Selengkapnya »</b></button></p>
+</div>
+<div class="w3-col m4 w3-hide-small">
+<p><span class="w3-padding-large w3-right"><b>Comments  </b> <span class="w3-badge">1</span></span></p>
+</div>
+</div>
+</div>
+</div>
+<!-- END BLOG ENTRIES -->
+</div>
+
+<!-- Introduction menu -->
+<div class="w3-col l4">
+<!-- About Card -->
+<div class="w3-card w3-margin w3-margin-top">
+<div class="w3-container w3-white">
+<h4><b>Berita Terkait</b></h4>
+<p>-Dari man RA Kartini punya pemikiran jadi pe;opor kebangkitan...<br>-4 kota di Belanda dijadikan RA Kartini nama jalan sudah tahu?<br>-7 biografi singkat pahlawan nasional asal jawa tengah</p>
+</div>
+</div><hr>
+
+<!-- Posts -->
+<div class="w3-card w3-margin">
+<div class="w3-container w3-padding">
+<h4>Profil RA. Kartini</h4>
+</div>
+<ul class="w3-ul w3-hoverable w3-white">
+<li class="w3-padding-16">
+<img src="RA. Kartini 1.jpg" alt="Image" class="w3-left w3-margin-right" style="width: 50px">
+<span class="w3-large">Raden Ajeng Kartini</span><br>
+<span>mengenal sosok RA.Kartini. </span>
+</li>
+<li class="w3-padding-16">
+<img src="RA. KARTINI 2.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+<span class="w3-large">Raden Ajeng Kartini</span><br>
+<span>mengenal keluarga RA Kartini.</span>
+</li> 
+<li class="w3-padding-16">
+<img src="RA.Kartini 3.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+<span class="w3-large">Raden Ajeng Kartini</span><br>
+<span>mendirikan sekolah wanita (sekolah kartini) oleh yayasan kartini. </span>
+</li> 
+</li> 
+</ul>
+</div>
+<hr> 
+
+
+
+<!-- END Introduction Menu -->
+</div>
+
+<!-- END GRID -->
+</div><br>
+
+<!-- END w3-content -->
+</div>
+
+<!-- Footer -->
+
+</body>
+</html>
